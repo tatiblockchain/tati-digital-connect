@@ -30,6 +30,6 @@ We release regular videos on a Wednesday and Saturday (most of the time) - on re
 We are soon going to be launching a Python learning pathway - with courses on python web development, database development and web applications. This should be exciting, stay tuned to our channel here:
 [Skolo Online Youtube Channel](https://www.youtube.com/channel/UCKe7TlwyDiH2RM7jhI5vnXw/videos)
 
-** Get your business featured on Tati Digital Connect
+## Get your business featured on Tati Digital Connect
 You can get you business or entrepreneurship jounrey featured on our blog - simply send an email to admin@skolo.online with your details. Tell us more about yourself, include your social media links and we will consider your story.
 We are here for the Entrepreneur - Keep Learning, Keep Growing
