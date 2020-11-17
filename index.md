@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+#Tati Digital Connect - Online Blog for Entrepreneurs, Technically Inclined People
 
-You can use the [editor on GitHub](https://github.com/tatiblockchain/tati-digital-connect/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Tati digital was created to fill the space within digital media for entrepreneurs in South Africa. The blog will have these main categories:
+* Entrepreneur stories - spotlight articles on entrepreneurs
+* Entrepreneur news - articles of interest to entrepreneurs 
+* Small Business news - articled of interest to small business owners 
+* Opportunity corner - collection of opportunities for entrepreneurs to engage in, call for applications, nominations, awards etc
+* Ecommerce news - articles of interest to e-Commerce people
+* Opinion pieces
+* Technology - technology discussion, education articles 
+* Programming - programming discussion, education articles 
+* Web design - articles on web design and seo
+* Tutorials - Tutorials on programming, technology, web design, seo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Articles are written for entrepreneurs mainly with useful tips, information and ideas on how to tackle the digital space. Digital transformation is a hot topic for many small businesses and entrepreneurs. To remain efficient in this time, companies need to embrace and be at the forefront of digital transformation. Tati Digital Connect is here to help bridge the gap for many entrepreneurs
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tatiblockchain/tati-digital-connect/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Google News Publication 
+Tati Digital connect is also available on Google news publication. You can now, subscribe to Tati Digital Connect so you do not miss out on any of our new releases aricles and tutorials.
+[Tati Digital Connect Publication Google News](https://news.google.com/publications/CAAqBwgKMNGEngsw8o62Aw/sections/CAQqEAgAKgcICjDRhJ4LMPKOtgMw6oLqBg?oc=3&ceid=ZA:en )
